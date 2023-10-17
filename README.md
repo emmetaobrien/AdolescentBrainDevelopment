@@ -11,7 +11,7 @@
 - 7051 files, 55.7GB
 - MRI modalities: T1, T2, DWI (b900, b2000), ihMT, QSM, mcDESPOT, fMRI (resting state), ASL
 - 51 Subjects
-   - 16 subjecst with 1 time point only
+   - 16 subjects with 1 time point only
    - 23 subjects with 2 time points
    - 12 subjects with 3 time points
 
@@ -20,7 +20,7 @@
 ## METHODS
 
 ### -- Recruitment --
-Healthy children were recruited via posters and word of mouth. Children were recruited between 6 and 13 years of age. Inclusion criteria were: 1) uncomplicated birth between 37 to 42 weeks' gestation, 2) no history of developmental disorder or psychiatric disease, 3) no history of neurosurgery, 4) no contraindications to MRI. All subjects provided informed assent and parents/guardians provided writted informed assent.
+Healthy children between 6 and 13 years of age were recruited via posters and word of mouth. Inclusion criteria were: 1) uncomplicated birth between 37 to 42 weeks' gestation, 2) no history of developmental disorder or psychiatric disease, 3) no history of neurosurgery, 4) no contraindications to MRI. All subjects provided informed assent and parents/guardians provided written informed assent.
 
 ### -- Data Acquisition --
 All data was acquired at the Alberta Children's Hospital on a GE 3T Discovery MR750w system. 
